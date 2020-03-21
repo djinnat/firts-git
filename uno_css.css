@@ -1,0 +1,89 @@
+html
+{
+	margin-top: 0px;
+	padding: 0;
+}
+
+body{
+	background-color:#DDEBFE ;
+	opacity: 0.8;
+	margin:0px;
+	height:100%
+}
+nav
+{
+	background-color: #871C58;
+	height:65px;
+	width:100%;
+}
+
+#title
+{
+	color: white;
+	padding-top: 14px;
+	padding-left: 285px;
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#side
+{	
+	background-color: rgba(62, 91, 129,0.35);
+	position: relative;
+	width: 550px;
+	margin-left: 135px;
+	margin-top: 80px;
+	height:45%;
+	border-radius: 10px;
+}
+
+
+#place
+{	
+	padding-left: 100px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+#field1
+{
+	height: 30px;
+	width: 150px;
+	border-radius: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color:#8F296E;
+}
+
+#field2
+{	margin-left: 25px;
+	height: 30px;
+	width: 150px;
+	border-radius: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color:#8F296E;
+}
+
+#buttons{
+	margin-left: 110px;
+}
+#btn{
+	color:white;
+	margin-left: 20px;
+	height: 35px;
+	width: 37px;
+	border:none;
+	font-size: 25px;
+	border-radius: 5px;
+	background-color:rgba(116, 1, 66,1);
+}
+
+#result
+{	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color:rgba(116, 1, 66);
+}
